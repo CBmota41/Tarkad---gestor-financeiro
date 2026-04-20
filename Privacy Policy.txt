@@ -1,0 +1,45 @@
+POLÍTICA DE PRIVACIDADE E TERMOS DE USO - TARKAD
+Última atualização: 19 de Abril de 2026
+
+Ao fazer o download, instalar ou utilizar o aplicativo Tarkad ("Aplicativo"), você concorda com esta Política de Privacidade e com os Termos de Uso aqui descritos. Se não concordar, por favor, não utilize o Aplicativo.
+
+1. POLÍTICA DE PRIVACIDADE
+
+1.1. Coleta e Armazenamento de Dados
+O Tarkad foi desenvolvido com foco na sua privacidade. Todos os dados financeiros, transações, registros de microgastos e informações pessoais inseridas no Aplicativo são armazenados localmente no seu dispositivo. Nós não coletamos, não transmitimos para servidores externos e não temos acesso aos seus dados financeiros e bancários.
+
+1.2. Compartilhamento de Dados
+Como não coletamos seus dados pessoais e financeiros em servidores próprios, não compartilhamos essas informações com terceiros. As únicas informações transacionadas externamente referem-se ao processamento de pagamentos de assinaturas, que são gerenciados exclusivamente pelo Google Play Services.
+
+1.3. Exclusão de Dados
+Você tem o controle total sobre seus dados. Para excluir todas as informações financeiras registradas, basta limpar os dados do Aplicativo nas configurações do seu sistema operacional ou desinstalar o Aplicativo.
+
+2. TERMOS DE USO E ASSINATURAS
+
+2.1. Funcionalidades Premium (Assinatura)
+O Aplicativo oferece ferramentas avançadas, como o Raio-X de Microgastos, Caçador de Streaming e Simuladores, através de uma assinatura paga ("Tarkad Pro").
+
+2.2. Preços e Faturamento
+As assinaturas estão disponíveis nos seguintes formatos (os valores podem variar conforme a região ou promoções, refletindo-se na tela de compra):
+- Plano Mensal: R$ 14,99 por mês.
+- Plano Anual: R$ 119,99 por ano.
+
+2.3. Renovação Automática e Cancelamento
+O pagamento será cobrado na sua conta do Google Play no momento da confirmação da compra. A assinatura é renovada automaticamente pelo mesmo valor e período, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do período atual.
+Você pode gerenciar ou cancelar sua assinatura a qualquer momento acessando as configurações da sua conta na Google Play Store. A desinstalação do aplicativo não cancela a assinatura automaticamente.
+
+3. ISENÇÃO DE RESPONSABILIDADE (DISCLAIMER LEGAL)
+
+3.1. Caráter Educacional e de Simulação
+O Tarkad é uma ferramenta de gestão e simulação financeira pessoal. Os módulos de "Simulador de Ações", cálculo de "Retorno Previsto", projeção de dividendos e juros compostos são estritamente informativos e educacionais.
+
+3.2. Ausência de Garantias Financeiras
+Nenhuma projeção ou cálculo gerado pelo Aplicativo constitui recomendação de investimento, consultoria financeira, fiscal ou jurídica. Rentabilidade passada não é garantia de rentabilidade futura. A renda variável oscila, e as taxas do mercado (como CDI e Selic) estão sujeitas a alterações constantes por parte dos órgãos reguladores.
+
+3.3. Uso dos Dados e Incoerências
+Os cálculos baseiam-se única e exclusivamente nos dados inseridos manualmente pelo usuário e em taxas estimadas fornecidas para as simulações. Os desenvolvedores do Tarkad não se responsabilizam por:
+- Incoerências nos cálculos decorrentes de erros de digitação ou inserção incorreta de dados por parte do usuário.
+- Perdas financeiras, lucros cessantes ou decisões de investimento tomadas com base nas projeções exibidas no Aplicativo.
+- Divergências entre os valores simulados no Aplicativo e o rendimento real obtido em corretoras ou instituições financeiras.
+
+Ao utilizar o Tarkad, o usuário assume total responsabilidade por suas decisões financeiras e concorda em não responsabilizar os desenvolvedores por eventuais perdas ou discrepâncias.
