@@ -1,53 +1,67 @@
-# Política de Privacidade e Termos de Uso - Tarkad
+Com certeza você precisa atualizar. O texto atual diz que o app é "estritamente local" e que "não coleta ou transmite dados", o que agora é uma mentira técnica. Se o Google revisa seu app e vê que ele faz login e sobe dados para o Firestore, mas sua política diz que não faz, o banimento é quase certo.
 
-**Última atualização: 19 de Abril de 2026**
+Aqui está a versão blindada e atualizada para o cenário com Firebase, Anúncios e Google Drive:
 
-Ao fazer o download, instalar ou utilizar o aplicativo Tarkad ("Aplicativo"), você concorda com esta Política de Privacidade e com os Termos de Uso aqui descritos. Se não concordar, por favor, não utilize o Aplicativo.
+Política de Privacidade e Termos de Uso - Tarkad
+Última atualização: 21 de Abril de 2026
 
----
+Ao utilizar o aplicativo Tarkad ("Aplicativo"), você concorda com esta Política de Privacidade e com os Termos de Uso. Este documento foi atualizado para refletir as novas funcionalidades de sincronização em nuvem e serviços de terceiros.
 
-## 1. POLÍTICA DE PRIVACIDADE
+1. POLÍTICA DE PRIVACIDADE
+1.1. Coleta e Armazenamento de Dados
+O Tarkad oferece duas modalidades de armazenamento:
 
-### 1.1. Coleta e Armazenamento de Dados
-O Tarkad foi desenvolvido com foco na sua privacidade. Todos os dados financeiros, transações, registros de microgastos e informações pessoais inseridas no Aplicativo são armazenados **localmente** no seu dispositivo. Nós não coletamos, não transmitimos para servidores externos e não temos acesso aos seus dados financeiros e bancários.
+Local: Dados básicos e temporários armazenados no seu dispositivo.
 
-### 1.2. Compartilhamento de Dados
-Como não coletamos seus dados pessoais e financeiros em servidores próprios, não compartilhamos essas informações com terceiros. As únicas informações transacionadas externamente referem-se ao processamento de pagamentos de assinaturas, que são gerenciados exclusivamente pelo Google Play Services.
+Nuvem (Google Firebase): Para usuários que utilizam o login, os dados de perfil (nome, e-mail, profissão), dados financeiros (transações, saldo, limites) e investimentos são sincronizados e armazenados nos servidores do Google Firebase. Isso garante que você possa restaurar seus dados em diferentes dispositivos.
 
-### 1.3. Exclusão de Dados
-Você tem o controle total sobre seus dados. Para excluir todas as informações financeiras registradas, basta limpar os dados do Aplicativo nas configurações do seu sistema operacional ou desinstalar o Aplicativo.
+1.2. Sincronização e Terceiros
+O Aplicativo utiliza serviços de terceiros que podem coletar informações para identificação e funcionamento:
 
----
+Google Play Services & Firebase: Para autenticação, banco de dados em nuvem e análise de integridade.
 
-## 2. TERMOS DE USO E ASSINATURAS
+Google AdMob: Para exibição de anúncios. O AdMob pode coletar identificadores de dispositivo para fins de personalização de publicidade.
 
-### 2.1. Funcionalidades Premium (Assinatura)
-O Aplicativo oferece ferramentas avançadas, como o Raio-X de Microgastos, Caçador de Streaming e Simuladores, através de uma assinatura paga ("Tarkad Pro").
+Google Drive API: Caso o usuário utilize a função de backup manual, o app interage com o Google Drive do próprio usuário para armazenar arquivos de backup.
 
-### 2.2. Preços e Faturamento
-As assinaturas estão disponíveis nos seguintes formatos (os valores podem variar conforme a região ou promoções, refletindo-se na tela de compra):
-* **Plano Mensal:** R$ 14,99 por mês.
-* **Plano Anual:** R$ 119,99 por ano.
+1.3. Compartilhamento de Dados
+Nós não vendemos seus dados financeiros ou pessoais. As informações são utilizadas exclusivamente para a prestação do serviço de gestão financeira e sincronização de conta. Dados de identificação de dispositivo podem ser compartilhados com o Google AdMob para a veiculação de anúncios que financiam o acesso gratuito às funcionalidades premium.
 
-### 2.3. Renovação Automática e Cancelamento
-O pagamento será cobrado na sua conta do Google Play no momento da confirmação da compra. A assinatura é renovada automaticamente pelo mesmo valor e período, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do período atual.
+1.4. Exclusão de Dados e Direito ao Esquecimento
+Você possui total controle sobre seus dados:
 
-Você pode gerenciar ou cancelar sua assinatura a qualquer momento acessando as configurações da sua conta na Google Play Store. A desinstalação do aplicativo não cancela a assinatura automaticamente.
+No Aplicativo: Você pode excluir transações e registros individuais ou utilizar a função "Apagar Tudo" nas configurações.
 
----
+Exclusão da Conta: Para excluir permanentemente sua conta e todos os dados vinculados nos servidores do Firebase, utilize o botão de exclusão dentro do app ou solicite através do nosso formulário oficial de exclusão (URL fornecida na loja).
 
-## 3. ISENÇÃO DE RESPONSABILIDADE (DISCLAIMER LEGAL)
+2. TERMOS DE USO E ASSINATURAS
+2.1. Tarkad Pro e Acesso Temporário
+O Aplicativo oferece ferramentas avançadas através da assinatura "Tarkad Pro". O acesso também pode ser liberado temporariamente mediante a visualização de anúncios premiados.
 
-### 3.1. Caráter Educacional e de Simulação
-O Tarkad é uma ferramenta de gestão e simulação financeira pessoal. Os módulos de "Simulador de Ações", cálculo de "Retorno Previsto", projeção de dividendos e juros compostos são estritamente informativos e educacionais.
+2.2. Preços e Faturamento
 
-### 3.2. Ausência de Garantias Financeiras
-Nenhuma projeção ou cálculo gerado pelo Aplicativo constitui recomendação de investimento, consultoria financeira, fiscal ou jurídica. Rentabilidade passada não é garantia de rentabilidade futura. A renda variável oscila, e as taxas do mercado (como CDI e Selic) estão sujeitas a alterações constantes por parte dos órgãos reguladores.
+Plano Mensal: R$ 14,99 | Plano Anual: R$ 119,99.
 
-### 3.3. Uso dos Dados e Incoerências
-Os cálculos baseiam-se única e exclusivamente nos dados inseridos manualmente pelo usuário e em taxas estimadas fornecidas para as simulações. Os desenvolvedores do Tarkad não se responsabilizam por:
-* Incoerências nos cálculos decorrentes de erros de digitação ou inserção incorreta de dados por parte do usuário.
-* Perdas financeiras, lucros cessantes ou decisões de investimento tomadas com base nas projeções exibidas no Aplicativo.
-* Divergências entre os valores simulados no Aplicativo e o rendimento real obtido em corretoras ou instituições financeiras.
+O faturamento é gerido exclusivamente pelo Google Play Store. Cancelamentos devem ser feitos diretamente na conta da Google Play Store do usuário.
 
-> Ao utilizar o Tarkad, o usuário assume total responsabilidade por suas decisões financeiras e concorda em não responsabilizar os desenvolvedores por eventuais perdas ou discrepâncias.
+3. ISENÇÃO DE RESPONSABILIDADE (DISCLAIMER)
+3.1. Caráter Educacional
+O Tarkad é uma ferramenta de simulação. Projeções de dividendos, juros compostos e rendimentos são baseadas em algoritmos matemáticos e não constituem garantia de lucro real.
+
+3.2. Responsabilidade do Usuário
+Os desenvolvedores não se responsabilizam por:
+
+Decisões financeiras tomadas com base nas projeções do app.
+
+Erros de inserção de dados pelo usuário.
+
+Eventuais perdas de dados decorrentes de falhas técnicas ou falta de backup manual por parte do usuário.
+
+O que mudou e por que:
+Sincronização: Agora deixamos claro que os dados vão para o Firebase. Isso é o que o Google exige.
+
+AdMob: Citamos que o ID do dispositivo é coletado para anúncios. Sem isso, a política de "Segurança de Dados" do console fica incoerente.
+
+Exclusão: Adicionamos o "Direito ao Esquecimento" e mencionamos o link externo que você criou no Forms.
+
+Google Drive: Citamos o backup manual para cobrir todas as bases.
