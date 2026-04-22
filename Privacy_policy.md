@@ -1,7 +1,3 @@
-Com certeza você precisa atualizar. O texto atual diz que o app é "estritamente local" e que "não coleta ou transmite dados", o que agora é uma mentira técnica. Se o Google revisa seu app e vê que ele faz login e sobe dados para o Firestore, mas sua política diz que não faz, o banimento é quase certo.
-
-Aqui está a versão blindada e atualizada para o cenário com Firebase, Anúncios e Google Drive:
-
 Política de Privacidade e Termos de Uso - Tarkad
 Última atualização: 21 de Abril de 2026
 
