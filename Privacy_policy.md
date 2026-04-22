@@ -41,6 +41,7 @@ Plano Mensal: R$ 14,99 | Plano Anual: R$ 119,99.
 O faturamento é gerido exclusivamente pelo Google Play Store. Cancelamentos devem ser feitos diretamente na conta da Google Play Store do usuário.
 
 3. ISENÇÃO DE RESPONSABILIDADE (DISCLAIMER)
+
 3.1. Caráter Educacional
 O Tarkad é uma ferramenta de simulação. Projeções de dividendos, juros compostos e rendimentos são baseadas em algoritmos matemáticos e não constituem garantia de lucro real.
 
